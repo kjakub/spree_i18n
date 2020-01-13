@@ -351,8 +351,6 @@ cs:
         one: '1 chyba zabraňuje uložení %{resource}:'
         other: "%{count} chyb zabraňuje uložení %{resource}:"
   spree:
-    taxonomy_categories_name: Kategorie
-    taxonomy_brands_name: Značek
     abbreviation: Zkratka
     accept: Přijmout
     acceptance_errors: Chyby přijetí
